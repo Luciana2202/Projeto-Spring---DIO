@@ -1,4 +1,4 @@
-package one.digitalinnovation.projetospringdio.model;
+package one.digitalinnovation.projetospringdio.modelescola;
 
 
 import jakarta.persistence.*;

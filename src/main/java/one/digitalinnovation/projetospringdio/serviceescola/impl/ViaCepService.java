@@ -1,6 +1,6 @@
-package one.digitalinnovation.projetospringdio.service.impl;
+package one.digitalinnovation.projetospringdio.serviceescola.impl;
 
-import one.digitalinnovation.projetospringdio.model.Dados;
+import one.digitalinnovation.projetospringdio.modelescola.Dados;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

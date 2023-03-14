@@ -1,7 +1,7 @@
-package one.digitalinnovation.projetospringdio.controller;
+package one.digitalinnovation.projetospringdio.controllerescola;
 
-import one.digitalinnovation.projetospringdio.model.Aluno;
-import one.digitalinnovation.projetospringdio.service.impl.AlunoService;
+import one.digitalinnovation.projetospringdio.modelescola.Aluno;
+import one.digitalinnovation.projetospringdio.serviceescola.impl.AlunoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;

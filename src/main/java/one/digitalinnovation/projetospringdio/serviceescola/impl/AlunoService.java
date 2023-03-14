@@ -1,7 +1,7 @@
-package one.digitalinnovation.projetospringdio.service.impl;
+package one.digitalinnovation.projetospringdio.serviceescola.impl;
 
 
-import one.digitalinnovation.projetospringdio.model.Aluno;
+import one.digitalinnovation.projetospringdio.modelescola.Aluno;
 
 public interface AlunoService {
 
